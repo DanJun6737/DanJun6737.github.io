@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a 5th year Ph.D. student at [Zhejiang University](https://www.zju.edu.cn/). My research interest includes **Transfer Learning**, **Face Perception and Understanding**, and **Data-Centric AI**.
+I'm a 5th-year Ph.D. student at [Zhejiang University](https://www.zju.edu.cn/). My research interest includes **Transfer Learning**, **Face Perception and Understanding**, and **Data-Centric AI**.
 
 A data-driven personal website
 ======
