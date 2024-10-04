@@ -48,6 +48,10 @@ Publications
 **Dan J**, Jin T, Chi H, et al. 
 <em>Neural Computing and Applications, 2023, 35(7): 5351-5367.</em>
 
+* **CM-UNet: Hybrid CNN-Mamba UNet for Remote Sensing Image Semantic Segmentation**. [[PDF]](https://arxiv.org/abs/2405.10530)\
+Liu M, **Dan J**, Lu Z, et al. 
+<em>arXiv preprint arXiv:2405.10530, 2024.</em>
+
 Awards
 ======
 * 3PEAK Corporate Scholarship, 2024.
