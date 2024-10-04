@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "jundan.png"
+  avatar           : "jundan-1.png"
   name             : "Jun Dan"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Zhejiang University,China"
