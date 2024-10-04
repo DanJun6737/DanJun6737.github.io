@@ -6,9 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Hi, my name is Jun Dan.
 
-I'm a 5th-year Ph.D. student at [Zhejiang University](https://www.zju.edu.cn/). My research interests include **Transfer Learning**, **Face Perception and Understanding**, **LMMs**, and **Data-Centric AI**.\
-I graduated from the School of Microelectronics and Communication Engineering at [Chongqing University](https://www.cqu.edu.cn/) with a bachelor’s degree in 2020.
+I'm a 5th-year Ph.D. student at [Zhejiang University](https://www.zju.edu.cn/).\
+Previously, I graduated with a bachelor’s degree in 2020 from the School of Microelectronics and Communication Engineering at [Chongqing University](https://www.cqu.edu.cn/).
+
+My research interests include **Transfer Learning**, **Face Perception and Understanding**, **LMMs**, and **Data-Centric AI**.
 
 Publications
 ======
