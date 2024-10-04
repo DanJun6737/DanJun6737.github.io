@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm a 5th-year Ph.D. student at [Zhejiang University](https://www.zju.edu.cn/). My research interests include **Transfer Learning**, **Face Perception and Understanding**, and **Data-Centric AI**.\
+I'm a 5th-year Ph.D. student at [Zhejiang University](https://www.zju.edu.cn/). My research interests include **Transfer Learning**, **Face Perception and Understanding**, **LMMs**, and **Data-Centric AI**.\
 I graduated from the School of Microelectronics and Communication Engineering at [Chongqing University](https://www.cqu.edu.cn/) with a bachelor’s degree in 2020.
 
 Publications
 ======
 * **TFGDA: Exploring Topology and Feature Alignment in Semi-supervised Graph Domain Adaptation through Robust Clustering**. [[PDF]](https://openreview.net/forum?id=26BdXIY3ik&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2024%2FConference%2FAuthors%23your-submissions))\
-**Dan J**, Liu W, Tan Y, et al. 
+**Dan J**, Liu W, Tan Y, et al.
 <em>Accepted by NeurIPS 2024, Main Track.</em>
 
 * **TopoFR: A Closer Look at Topology Alignment on Face Recognition**. [[PDF]](https://openreview.net/forum?id=KVAx5tys2p&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2024%2FConference%2FAuthors%23your-submissions)) [[CODE]](https://github.com/DanJun6737/TopoFR)\
