@@ -59,7 +59,7 @@ Publications
 Liu M, **Dan J**, Lu Z, et al. 
 <em>arXiv preprint arXiv:2405.10530, 2024.</em>
 
-Awards
+Awards & Honors
 ======
 * 3PEAK Corporate Scholarship, 2024.
 * Five-Star Graduate Student of Zhejiang University, 2023 & 2024.
