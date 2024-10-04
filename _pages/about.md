@@ -48,5 +48,15 @@ Publications
 **Dan J**, Jin T, Chi H, et al. 
 <em>Neural Computing and Applications, 2023, 35(7): 5351-5367.</em>
 
+Awards
+======
+* 3PEAK Corporate Scholarship, 2024.
+* Five-Star Graduate Student of Zhejiang University, 2024.
+* Five-Star Graduate Student of Zhejiang University, 2023.
+* Outstanding Graduate of Chongqing City, 2020. (1% students awarded)
+* Outstanding Graduate of Chongqing University, 2020.
+* National Encouragement Scholarship, 2019. (3% students awarded)
+* National Encouragement Scholarship, 2018. (3% students awarded)
+* National Encouragement Scholarship, 2017. (3% students awarded)
 
 
