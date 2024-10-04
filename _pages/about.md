@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 I'm a 5th-year Ph.D. student at [Zhejiang University](https://www.zju.edu.cn/). My research interests include **Transfer Learning**, **Face Perception and Understanding**, and **Data-Centric AI**.
+
 I graduated from the School of Microelectronics and Communication Engineering at [Chongqing University](https://www.cqu.edu.cn/) with a bachelor’s degree in 2020.
 
 A data-driven personal website
