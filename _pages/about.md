@@ -55,12 +55,12 @@ Liu M, **Dan J**, Lu Z, et al.
 Awards
 ======
 * 3PEAK Corporate Scholarship, 2024.
-* Five-Star Graduate Student of Zhejiang University, 2024.
-* Five-Star Graduate Student of Zhejiang University, 2023.
+* Five-Star Graduate Student of Zhejiang University, 2023 & 2024.
+* Outstanding Graduate Student of Zhejiang University. 2021 & 2023 & 2024.
 * Outstanding Graduate of Chongqing City, 2020. (1% students awarded)
 * Outstanding Graduate of Chongqing University, 2020.
-* National Encouragement Scholarship, 2019. (3% students awarded)
-* National Encouragement Scholarship, 2018. (3% students awarded)
-* National Encouragement Scholarship, 2017. (3% students awarded)
+* National Encouragement Scholarship, 2017 & 2018 & 2019. (3% students awarded)
+* Comprehensive Scholarship for Outstanding Students of Chongqing University, 2017 & 2018 & 2019 & 2020.
+
 
 
