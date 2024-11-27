@@ -61,7 +61,7 @@ Liu M, **Dan J**, Lu Z, et al.
 
 Awards & Honors
 ======
-* National scholarship, 2024.
+* National Scholarship, 2024.
 * 3PEAK Corporate Scholarship, 2024.
 * Five-Star Graduate Student of Zhejiang University, 2023 & 2024.
 * Outstanding Graduate Student of Zhejiang University. 2021 & 2023 & 2024.
