@@ -63,6 +63,7 @@ News
 ======
 - 🚀🚀🚀 TransFace is integrated in [FaceChain-FACT](https://github.com/modelscope/facechain) as a key identity-preserved module to assist Stable Diffusion in generating human portraits with fine-grained facial details and diverse styles.
 In the newest FaceChain-FACT (Face Adapter with deCoupled Training) version, with only 1 photo and 10 seconds, you can generate personal portraits in different settings (multiple styles now supported!). (May 28th, 2024 UTC)
+- You can quickly experience and invoke our TransFace model on the [ModelScope](https://modelscope.cn/models/damo/cv_vit_face-recognition/summary).
 
 <a href='https://facechain-fact.github.io/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>  [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://youtu.be/DHqEl0qwi-M?si=y6VpInXdhIX0HpbI)
 
@@ -70,31 +71,6 @@ In the newest FaceChain-FACT (Face Adapter with deCoupled Training) version, wit
 
 ![image](framework.png)
 
-## ModelScope
-You can quickly experience and invoke our TransFace model on the [ModelScope](https://modelscope.cn/models/damo/cv_vit_face-recognition/summary).
-
-* Quickly utilize our model as a feature extractor to extract facial features from the input image.
-
-```
-# Usage: Input aligned facial images (112x112) to obtain a 512-dimensional facial feature vector.
-# For convenience, the model integrates the RetinaFace model for face detection and keypoint estimation.
-# Provide two images as input, and for each image, the model will independently perform face detection,
-# select the largest face, align it, and extract the corresponding facial features.
-# Finally, the model will return a similarity score indicating the resemblance between the two faces.
-
-from modelscope.pipelines import pipeline
-from modelscope.utils.constant import Tasks
-from modelscope.outputs import OutputKeys
-import numpy as np
-
-face_mask_recognition_func = pipeline(Tasks.face_recognition, 'damo/cv_vit_face-recognition')
-img1 = 'https://modelscope.oss-cn-beijing.aliyuncs.com/test/images/face_recognition_1.png'
-img2 = 'https://modelscope.oss-cn-beijing.aliyuncs.com/test/images/face_recognition_2.png'
-emb1 = face_mask_recognition_func(img1)[OutputKeys.IMG_EMBEDDING]
-emb2 = face_mask_recognition_func(img2)[OutputKeys.IMG_EMBEDDING]
-sim = np.dot(emb1[0], emb2[0])
-print(f'Face cosine similarity={sim:.3f}, img1:{img1}  img2:{img2}')
-```
 
 Awards & Honors
 ======
