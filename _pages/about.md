@@ -68,7 +68,7 @@ In the newest FaceChain-FACT (Face Adapter with deCoupled Training) version, wit
 
  The entire framework of [FaceChain-FACT](https://github.com/modelscope/facechain) is shown in the figure below.
 
-![image](docs/framework.png)
+![image](framework.png)
 
 ## ModelScope
 You can quickly experience and invoke our TransFace model on the [ModelScope](https://modelscope.cn/models/damo/cv_vit_face-recognition/summary).
