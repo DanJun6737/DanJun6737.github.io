@@ -74,6 +74,7 @@ In the newest FaceChain-FACT (Face Adapter with deCoupled Training) version, wit
 You can quickly experience and invoke our TransFace model on the [ModelScope](https://modelscope.cn/models/damo/cv_vit_face-recognition/summary).
 
 * Quickly utilize our model as a feature extractor to extract facial features from the input image.
+
 ```
 # Usage: Input aligned facial images (112x112) to obtain a 512-dimensional facial feature vector.
 # For convenience, the model integrates the RetinaFace model for face detection and keypoint estimation.
