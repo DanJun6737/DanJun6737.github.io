@@ -55,6 +55,10 @@ Publications
 **Dan J**, Jin T, Chi H, et al. 
 <em>Neural Computing and Applications, 2023, 35(7): 5351-5367.</em>
 
+* **FaceChain-FACT: Face Adapter with Decoupled Training for Identity-preserved Personalization**. [[PDF]](https://arxiv.org/abs/2410.12312) [[CODE]](https://github.com/modelscope/facechain)\
+Cheng Yu, Haoyu Xie, Lei Shang, Yang Liu, **Jun Dan**, et al. 
+<em>arXiv preprint arXiv:2410.12312, 2024.</em>
+
 * **CM-UNet: Hybrid CNN-Mamba UNet for Remote Sensing Image Semantic Segmentation**. [[PDF]](https://arxiv.org/abs/2405.10530) [[CODE]](https://github.com/XiaoBuL/CM-UNet)\
 Liu M, **Dan J**, Lu Z, et al. 
 <em>arXiv preprint arXiv:2405.10530, 2024.</em>
