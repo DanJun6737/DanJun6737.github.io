@@ -23,7 +23,7 @@ Publications
 **Dan J**, Liu W, Tan Y, et al.
 <em>Accepted by NeurIPS 2024, Main Track.</em>
 
-* **TopoFR: A Closer Look at Topology Alignment on Face Recognition**. [[PDF]](https://openreview.net/forum?id=KVAx5tys2p&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2024%2FConference%2FAuthors%23your-submissions)) [[CODE]](https://github.com/modelscope/facechain/tree/main/face_module/TopoFR)\
+* **TopoFR: A Closer Look at Topology Alignment on Face Recognition**. [[PDF]](https://openreview.net/forum?id=KVAx5tys2p&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2024%2FConference%2FAuthors%23your-submissions)) [[CODE]](https://github.com/modelscope/facechain/tree/main/face_module/TopoFR)[[机器之心]](https://www.jiqizhixin.com/articles/2024-10-17-6)\
 **Dan J**, Liu Y, Deng J, et al. 
 <em>Accepted by NeurIPS 2024, Main Track.</em>
 
