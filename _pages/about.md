@@ -14,7 +14,7 @@ Previously, I graduated with a bachelor’s degree in 2020 from the School of Mi
 **Research Interests:**
 * Transfer Learning
 * Face Perception and Understanding
-* LMMs
+* AIGC
 * Data-Centric AI
 
 Publications
