@@ -23,11 +23,11 @@ Publications
 **Dan J**, Liu W, Tan Y, et al.
 <em>Accepted by NeurIPS 2024, Main Track.</em>
 
-* **TopoFR: A Closer Look at Topology Alignment on Face Recognition**. [[PDF]](https://openreview.net/forum?id=KVAx5tys2p&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2024%2FConference%2FAuthors%23your-submissions)) [[CODE]](https://github.com/modelscope/facechain/tree/main/face_module/TopoFR) [[机器之心]](https://www.jiqizhixin.com/articles/2024-10-17-6) [[CSDN]](https://blog.csdn.net/sunbaigui/article/details/143230746) [[CVer]](https://mp.weixin.qq.com/s/3NegnpJUGPfI_dOfkp_4LQ) [[PaperWeekly]](https://mp.weixin.qq.com/s/nA4Pqd-hBXBSJWlcBZXh8Q)\
+* **TopoFR: A Closer Look at Topology Alignment on Face Recognition**. [[PDF]](https://openreview.net/forum?id=KVAx5tys2p&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2024%2FConference%2FAuthors%23your-submissions)) [[CODE]](https://github.com/modelscope/facechain/tree/main/face_module/TopoFR) [[机器之心]](https://www.jiqizhixin.com/articles/2024-10-17-6) [[CSDN]](https://blog.csdn.net/sunbaigui/article/details/143230746) [[CVer]](https://mp.weixin.qq.com/s/3NegnpJUGPfI_dOfkp_4LQ)\
 **Dan J**, Liu Y, Deng J, et al. 
 <em>Accepted by NeurIPS 2024, Main Track.</em>
 
-* **TransFace: Calibrating Transformer Training for Face Recognition from a Data-Centric Perspective**. [[PDF]](https://openaccess.thecvf.com/content/ICCV2023/html/Dan_TransFace_Calibrating_Transformer_Training_for_Face_Recognition_from_a_Data-Centric_ICCV_2023_paper.html) [[CODE]](https://github.com/DanJun6737/TransFace)\
+* **TransFace: Calibrating Transformer Training for Face Recognition from a Data-Centric Perspective**. [[PDF]](https://openaccess.thecvf.com/content/ICCV2023/html/Dan_TransFace_Calibrating_Transformer_Training_for_Face_Recognition_from_a_Data-Centric_ICCV_2023_paper.html) [[CODE]](https://github.com/DanJun6737/TransFace) [[ModelScope]](https://www.modelscope.cn/models/iic/cv_vit_face-recognition) [[阿里云]](https://developer.aliyun.com/article/1319924) [[CVer]](https://mp.weixin.qq.com/s/n9HKqZ7DAt5Woo5BCwxq6w) [[CSDN]](https://blog.csdn.net/sunbaigui/article/details/136556006)\
 **Dan J**, Liu Y, Xie H, et al. 
 <em>Proceedings of the IEEE/CVF international conference on computer vision (ICCV). 2023: 20642-20653.</em>
 
