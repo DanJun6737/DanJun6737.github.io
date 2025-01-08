@@ -21,7 +21,9 @@ My selected open-source projects:
   
 (1) [FaceChain ![](https://img.shields.io/github/stars/modelscope/FaceChain?style=social&label=Stars)](https://github.com/modelscope/facechain); 
 
-(2) [TransFace ![](https://img.shields.io/github/stars/modelscope/FaceChain?style=social&label=Stars)](https://github.com/modelscope/facechain/tree/main/face_module/TransFace); TransFace model has reached over **13K** downloads on the [ModelScope](https://www.modelscope.cn/models/iic/cv_vit_face-recognition) platform.
+(2) [TransFace ![](https://img.shields.io/github/stars/modelscope/FaceChain?style=social&label=Stars)](https://github.com/modelscope/facechain/tree/main/face_module/TransFace); TransFace model has reached over **13K+** downloads on the [ModelScope](https://www.modelscope.cn/models/iic/cv_vit_face-recognition) platform.
+
+(3) [TopoFR ![](https://img.shields.io/github/stars/modelscope/FaceChain?style=social&label=Stars)](https://github.com/modelscope/facechain/tree/main/face_module/TopoFR);
 
 
 
