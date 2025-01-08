@@ -17,7 +17,7 @@ Previously, I graduated with a bachelor’s degree in 2020 from the School of Mi
 * AIGC
 * Data-Centric AI
 
-My selected open-source projects: [FaceChain ![](https://img.shields.io/github/stars/modelscope/FaceChain?style=social&label=Stars)](https://github.com/modelscope/facechain).
+My selected open-source project: [FaceChain ![](https://img.shields.io/github/stars/modelscope/FaceChain?style=social&label=Stars)](https://github.com/modelscope/facechain).
 
 Publications
 ======
