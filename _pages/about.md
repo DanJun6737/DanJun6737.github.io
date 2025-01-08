@@ -17,7 +17,11 @@ Previously, I graduated with a bachelor’s degree in 2020 from the School of Mi
 * AIGC
 * Data-Centric AI
 
-My selected open-source projects: [FaceChain ![](https://img.shields.io/github/stars/modelscope/FaceChain?style=social&label=Stars)](https://github.com/modelscope/facechain); [TransFace ![](https://img.shields.io/github/stars/DanJun6737/TransFace?style=social&label=Stars)](https://github.com/modelscope/facechain/tree/main/face_module/TransFace); TransFace model has reached over **13K** downloads on the [ModelScope platform](https://www.modelscope.cn/models/iic/cv_vit_face-recognition).
+My selected open-source projects:  
+  
+(1) [FaceChain ![](https://img.shields.io/github/stars/modelscope/FaceChain?style=social&label=Stars)](https://github.com/modelscope/facechain); 
+
+(2) [TransFace ![](https://img.shields.io/github/stars/modelscope/FaceChain?style=social&label=Stars)](https://github.com/modelscope/facechain/tree/main/face_module/TransFace); TransFace model has reached over **13K** downloads on the [ModelScope](https://www.modelscope.cn/models/iic/cv_vit_face-recognition) platform.
 
 
 
