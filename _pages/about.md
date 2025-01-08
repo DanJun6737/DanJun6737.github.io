@@ -17,6 +17,8 @@ Previously, I graduated with a bachelor’s degree in 2020 from the School of Mi
 * AIGC
 * Data-Centric AI
 
+My selected open-source projects: [FaceChain ![](https://img.shields.io/github/stars/modelscope/FaceChain?style=social&label=Stars)](https://github.com/modelscope/facechain).
+
 Publications
 ======
 * **TFGDA: Exploring Topology and Feature Alignment in Semi-supervised Graph Domain Adaptation through Robust Clustering**. [[PDF]](https://openreview.net/forum?id=26BdXIY3ik&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2024%2FConference%2FAuthors%23your-submissions))\
