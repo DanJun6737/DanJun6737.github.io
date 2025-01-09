@@ -21,7 +21,7 @@ My selected open-source projects:
   
 (1) [FaceChain ![](https://img.shields.io/github/stars/modelscope/FaceChain?style=social&label=Stars)](https://github.com/modelscope/facechain); 
 
-(2) [TransFace ![](https://img.shields.io/github/stars/modelscope/FaceChain?style=social&label=Stars)](https://github.com/modelscope/facechain/tree/main/face_module/TransFace); TransFace model has reached over **13K+** downloads on the [ModelScope](https://www.modelscope.cn/models/iic/cv_vit_face-recognition) platform, and has been applied in various facial AIGC projects, such as [TongYi WanXiang (通义万象 写真馆)](https://tongyi.aliyun.com/wanxiang/), [FaceChain](https://github.com/modelscope/facechain), Fliggy (飞猪数字旅拍) and so on.
+(2) [TransFace ![](https://img.shields.io/github/stars/modelscope/FaceChain?style=social&label=Stars)](https://github.com/modelscope/facechain/tree/main/face_module/TransFace); TransFace model has reached over **13K+** downloads on the [ModelScope](https://www.modelscope.cn/models/iic/cv_vit_face-recognition) platform, and has been applied in various facial AIGC projects, such as [Alibaba Tongyi Wanxiang (通义万象写真馆)](https://tongyi.aliyun.com/wanxiang/), [FaceChain](https://github.com/modelscope/facechain), Fliggy (飞猪数字旅拍) and so on.
 
 
 
