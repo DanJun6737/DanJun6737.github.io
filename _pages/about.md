@@ -8,8 +8,12 @@ redirect_from:
 ---
 Hi, my name is Jun Dan.
 
+I'm a 5th-year Ph.D. student at [Zhejiang University](https://www.zju.edu.cn/).
+
+<!--
 I'm a 5th-year Ph.D. student at [Zhejiang University](https://www.zju.edu.cn/).\
 Previously, I graduated with a bachelor’s degree in 2020 from the School of Microelectronics and Communication Engineering at [Chongqing University](https://www.cqu.edu.cn/).
+-->
 
 **Research Interests:**
 * Transfer Learning
@@ -44,25 +48,28 @@ Publications
 **Dan J**, Liu W, Liu M, et al. 
 <em>Accepted by ACM Multimedia (ACM MM) 2024.</em>
 
-* **PIRN: Phase Invariant Reconstruction Network for Infrared Image Super-Resolution**. [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0925231224009925)\
-**Dan J**, Jin T, Chi H, et al. 
-<em>Neurocomputing, 2024, 599: 128221.</em>
+<!--
+%* **PIRN: Phase Invariant Reconstruction Network for Infrared Image Super-Resolution**. [[PDF]]%(https://www.sciencedirect.com/science/article/abs/pii/S0925231224009925)\
+%**Dan J**, Jin T, Chi H, et al. 
+%<em>Neurocomputing, 2024, 599: 128221.</em>
 
-* **Similar Norm More Transferable: Rethinking Feature Norms Discrepancy in Adversarial Domain Adaptation**. [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0950705124005422)\
-**Dan J**, Liu M, Xie C, et al. 
-<em>Knowledge-Based Systems, 2024, 296: 111908.</em>
+%* **Similar Norm More Transferable: Rethinking Feature Norms Discrepancy in Adversarial Domain Adaptation**. [[PDF]]%(https://www.sciencedirect.com/science/article/abs/pii/S0950705124005422)\
+%**Dan J**, Liu M, Xie C, et al. 
+%<em>Knowledge-Based Systems, 2024, 296: 111908.</em>
 
-* **Trust-aware Conditional Adversarial Domain Adaptation with Feature Norm Alignment**. [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0893608023005543)\
-**Dan J**, Jin T, Chi H, et al. 
-<em>Neural Networks, 2023, 168: 518-530.</em>
+%* **Trust-aware Conditional Adversarial Domain Adaptation with Feature Norm Alignment**. [[PDF]]%(https://www.sciencedirect.com/science/article/abs/pii/S0893608023005543)\
+%**Dan J**, Jin T, Chi H, et al. 
+%<em>Neural Networks, 2023, 168: 518-530.</em>
 
-* **HOMDA: High-Order Moment-Based Domain Alignment for unsupervised domain adaptation**. [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0950705122013016)\
-**Dan J**, Jin T, Chi H, et al. 
-<em>Knowledge-Based Systems, 2023, 261: 110205.</em>
+%* **HOMDA: High-Order Moment-Based Domain Alignment for unsupervised domain adaptation**. [[PDF]]%(https://www.sciencedirect.com/science/article/abs/pii/S0950705122013016)\
+%**Dan J**, Jin T, Chi H, et al. 
+%<em>Knowledge-Based Systems, 2023, 261: 110205.</em>
 
-* **Uncertainty-guided Joint Unbalanced Optimal Transport for Unsupervised Domain Adaptation**. [[PDF]](https://link.springer.com/article/10.1007/s00521-022-07976-x)\
-**Dan J**, Jin T, Chi H, et al. 
-<em>Neural Computing and Applications, 2023, 35(7): 5351-5367.</em>
+%* **Uncertainty-guided Joint Unbalanced Optimal Transport for Unsupervised Domain Adaptation**. [[PDF]]%(https://link.springer.com/article/10.1007/s00521-022-07976-x)\
+%**Dan J**, Jin T, Chi H, et al. 
+%<em>Neural Computing and Applications, 2023, 35(7): 5351-5367.</em>
+
+-->
 
 * **FaceChain-FACT: Face Adapter with Decoupled Training for Identity-preserved Personalization**. [[PDF]](https://arxiv.org/abs/2410.12312) [[CODE]](https://github.com/modelscope/facechain)\
 Cheng Yu, Haoyu Xie, Lei Shang, Yang Liu, **Jun Dan**, et al. 
@@ -85,6 +92,7 @@ In the newest FaceChain-FACT (Face Adapter with deCoupled Training) version, wit
 ![image](framework.png)
 
 
+<!--
 Awards & Honors
 ======
 * National Scholarship, 2024.
@@ -95,6 +103,6 @@ Awards & Honors
 * Outstanding Graduate of Chongqing University, 2020.
 * National Encouragement Scholarship, 2017 & 2018 & 2019. 
 * Comprehensive Scholarship for Outstanding Students of Chongqing University, 2017 & 2018 & 2019 & 2020.
-
+-->
 
 
